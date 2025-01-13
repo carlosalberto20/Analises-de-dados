@@ -2,7 +2,7 @@
 
 ## 📖 Objetivo do Projeto
 
-* O objetivo desse projeto é gerar análises exploratórias e visualizações gráficas para descrever e entender os indicadores de saúde do mundo utilizando a linguagem Python. 
+* O objetivo desse projeto é gerar análises exploratórias e visualizações gráficas para descrever e entender os indicadores de expectativa de vida e mortalidade de um país de cada continente utilizando a linguagem Python. 
 
 ## 🎲 Base de Dados
 
