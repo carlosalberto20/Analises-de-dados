@@ -6,5 +6,5 @@
 
 ## 🎲 Base de Dados
 
-* 1. https://www.kaggle.com/datasets/surajjha101/cuisine-rating 
+1. https://www.kaggle.com/datasets/surajjha101/cuisine-rating 
 
