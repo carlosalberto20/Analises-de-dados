@@ -1,6 +1,6 @@
 # Repositório em andamento!
 
-## 📖 Objetivo do Projeto
+## 🔎 Objetivo do Projeto
 
 * Analisar diversas bases de dados utilizando métodos estatísticos descritivos e métodos exploratórios para desenvolver meu portfólio na área de dados.
 
